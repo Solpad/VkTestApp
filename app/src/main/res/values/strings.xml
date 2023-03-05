@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VkTestApp</string>
+    <string name="records">Ваши записи</string>
+    <string name="cancel_title">Отмена</string>
+    <string name="ok_title">ОК</string>
+    <string name="delete_title">Для удаления записи смахните ее влево</string>
+    <string name="save_title">Ваши записи будут показываться здесь</string>
+    <integer name="com_vk_sdk_AppId">51567377</integer>
+
+</resources>
